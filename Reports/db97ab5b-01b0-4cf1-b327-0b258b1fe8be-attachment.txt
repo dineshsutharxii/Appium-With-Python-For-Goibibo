@@ -1,0 +1,22 @@
+WARNING  urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E510CB44F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+WARNING  urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E510CB43A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+WARNING  urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E510CB41C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+WARNING  urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E510C5A350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element coupleHotel_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element searchAnywhere_XPATH
+INFO     Pages.BasePage:BasePage.py:38 Typing in an element : searchText_IDAnd Entered Value is : Dubai
+INFO     Pages.BasePage:BasePage.py:29 Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInOutDate_ACCESSIBILITYID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkOutDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element cotinue_ID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element getARoom_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element coupleHotel_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element searchAnywhere_XPATH
+INFO     Pages.BasePage:BasePage.py:38 Typing in an element : searchText_IDAnd Entered Value is : Dubai
+INFO     Pages.BasePage:BasePage.py:29 Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInOutDate_ACCESSIBILITYID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkOutDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element cotinue_ID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element getARoom_XPATH

@@ -1,0 +1,50 @@
+2022-07-30 21:03:52,809 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:03:55,416 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:04:05,186 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:04:07,226 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:04:08,325 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:04:09,966 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:04:13,055 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH
+2022-07-30 21:06:51,523 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:06:57,550 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:07:01,422 - BasePage.py:[29] - [INFO] - Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+2022-07-30 21:07:05,441 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:07:07,781 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:07:10,497 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:07:10,586 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:07:13,527 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH
+2022-07-30 21:07:30,797 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:07:38,025 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:07:41,694 - BasePage.py:[29] - [INFO] - Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+2022-07-30 21:07:45,877 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:07:47,821 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:07:49,020 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:07:50,625 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:07:53,524 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH
+2022-07-30 21:08:34,460 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:08:41,506 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:08:43,713 - BasePage.py:[38] - [INFO] - Typing in an element : searchText_IDAnd Entered Value is : ['Delhi']
+2022-07-30 21:08:45,468 - BasePage.py:[29] - [INFO] - Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+2022-07-30 21:08:49,592 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:08:51,660 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:08:54,450 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:08:54,532 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:08:57,586 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH
+2022-07-30 21:09:18,506 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:09:26,090 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:09:28,212 - BasePage.py:[38] - [INFO] - Typing in an element : searchText_IDAnd Entered Value is : ['Dubai']
+2022-07-30 21:09:29,935 - BasePage.py:[29] - [INFO] - Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+2022-07-30 21:09:33,800 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:09:35,900 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:09:38,589 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:09:38,724 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:09:41,931 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH
+2022-07-30 21:12:17,724 - BasePage.py:[20] - [INFO] - Clicking an Element coupleHotel_XPATH
+2022-07-30 21:12:24,345 - BasePage.py:[20] - [INFO] - Clicking an Element searchAnywhere_XPATH
+2022-07-30 21:12:26,373 - BasePage.py:[38] - [INFO] - Typing in an element : searchText_IDAnd Entered Value is : ['Dubai']
+2022-07-30 21:12:28,023 - BasePage.py:[29] - [INFO] - Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+2022-07-30 21:12:32,063 - BasePage.py:[20] - [INFO] - Clicking an Element checkInOutDate_ACCESSIBILITYID
+2022-07-30 21:12:34,086 - BasePage.py:[20] - [INFO] - Clicking an Element checkInDate_XPATH
+2022-07-30 21:12:35,184 - BasePage.py:[20] - [INFO] - Clicking an Element checkOutDate_XPATH
+2022-07-30 21:12:36,818 - BasePage.py:[20] - [INFO] - Clicking an Element cotinue_ID
+2022-07-30 21:12:39,562 - BasePage.py:[20] - [INFO] - Clicking an Element getARoom_XPATH

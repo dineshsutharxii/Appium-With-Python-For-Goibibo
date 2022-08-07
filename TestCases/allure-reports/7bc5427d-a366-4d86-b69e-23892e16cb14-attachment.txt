@@ -1,0 +1,9 @@
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element coupleHotel_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element searchAnywhere_XPATH
+INFO     Pages.BasePage:BasePage.py:38 Typing in an element : searchText_IDAnd Entered Value is : Dubai
+INFO     Pages.BasePage:BasePage.py:29 Clicking an Element selectLocationCoupleHotel_IDwith index : 0
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInOutDate_ACCESSIBILITYID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkInDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element checkOutDate_XPATH
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element cotinue_ID
+INFO     Pages.BasePage:BasePage.py:20 Clicking an Element getARoom_XPATH

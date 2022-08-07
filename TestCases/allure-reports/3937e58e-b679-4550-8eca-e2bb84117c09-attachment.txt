@@ -1,0 +1,5 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:20 Clicking an Element hotels_ID
+[32mINFO    [0m Pages.BasePage:BasePage.py:20 Clicking an Element destination_ACCESSIBILITYID
+[32mINFO    [0m Pages.BasePage:BasePage.py:38 Typing in an element : searchText_IDAnd Entered Value is : Dubai
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking an Element selectLocation_IDwith index : 0
+[32mINFO    [0m Pages.BasePage:BasePage.py:20 Clicking an Element searchButton_XPATH
